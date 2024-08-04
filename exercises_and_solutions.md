@@ -347,8 +347,6 @@ Certainly! Here’s a set of exercises designed to help you practice and reinfor
     max_tensor = tf.maximum(tensor1, tensor2)
     min_tensor = tf.minimum(tensor1, tensor2)
     print("Element-wise maximum:\n", max_tensor)
-
-
     print("Element-wise minimum:\n", min_tensor)
     ```
 
